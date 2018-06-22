@@ -52,11 +52,10 @@ Contributor(s):
             </extension>
         </buildExtensions>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>Generico_JM_004_Usuarios_Imagens</name>
+            <name>Generico_JM_004_Visualizador_Imagens</name>
             <source-roots>
-                <root id="src.Menus_Norte.dir"/>
                 <root id="src.dir"/>
-                <root id="src.Usuarios_Imagens.dir"/>
+                <root id="src.JM_004_Visualizador_Imagens.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
